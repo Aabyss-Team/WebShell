@@ -12,3 +12,4 @@
 团队官网：http://www.aabyss.cn </p>
 团队博客：https://blog.aabyss.cn </p>
 欢迎各位关注我们的公众号，不定期分享各种干货</p>
+![Aabyss Team](https://github.com/Aabyss-Team/WebShell/blob/main/%E5%9B%A2%E9%98%9F%E5%85%AC%E4%BC%97%E5%8F%B7.png "团队公众号二维码")  
