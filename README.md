@@ -10,5 +10,5 @@
 # About
 我们是渊龙Sec安全团队，英文名Aabyss Team，欢迎关注我们</p>
 团队官网：http://www.aabyss.cn </p>
-团队博客:https://blog.aabyss.cn </p>
+团队博客：https://blog.aabyss.cn </p>
 欢迎各位关注我们的公众号，不定期分享各种干货</p>
